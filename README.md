@@ -1,4 +1,4 @@
 android_device_common_mdpi
 ==========================
 
-Common overlays for MDPI devices
+Common overlays for MDPI devices - androidarmv6
